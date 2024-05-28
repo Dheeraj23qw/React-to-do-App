@@ -1,0 +1,73 @@
+span{
+    font-weight: bold;
+    font-size:55px;
+    margin:60px;  
+    font-family: sans-serif;
+    color: hsl(335, 91%, 45%);
+}
+
+input{
+  width:100%;
+}
+
+.items-container{
+ text-align: left;
+ margin-left: 130px;
+ margin-top: 25px;
+
+}
+
+.kg-row{
+
+    margin:30px 5px;
+}
+
+.kg-button{
+
+    width: 90px;
+}
+
+p{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    
+}
+
+.msg{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: rgb(9, 9, 9);
+}
+
+.let{
+    margin-right: 2px;
+    color:red;
+    font-family: 'Gill Sans';
+    font-weight: 900;
+}
+
+
+.heading {
+    font-family:  sans-serif;
+    font-size: 2.5em;
+    color: #3498db; 
+    text-align: center;
+   
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+ 
+  .heading:hover {
+    color: #e74c3c; 
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+  }
+  
+  .appcontainer{
+    width: 90%;
+    margin:80px 50px 0px 60px;
+    padding-top:25px;
+  }
